@@ -676,6 +676,10 @@ section.section-blue h2 {
 width: 100%;
 }
 
+.map p{
+  width: 100%;
+}
+
 .map iframe{
     width: 100%;
 }
