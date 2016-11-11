@@ -13,7 +13,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'design');
+define('DB_NAME', 'kylovvs');
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -33,8 +33,8 @@ define('DB_COLLATE', '');
 $table_prefix  = 'wp_';
 
 
-define('WP_SITEURL', 'http://localhost:8080/design/');
-define('WP_HOME', 'http://localhost:8080/design/');
+define('WP_SITEURL', 'http://localhost:8080/kylovvs/');
+define('WP_HOME', 'http://localhost:8080/kylovvs/');
 
 /**
  * For developers: WordPress debugging mode.
@@ -43,4 +43,5 @@ define('WP_HOME', 'http://localhost:8080/design/');
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
  * in their development environments.
  */
+
 define('WP_DEBUG', false);

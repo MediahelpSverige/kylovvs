@@ -24,8 +24,8 @@ define('DB_PASSWORD', 'steel1992');
 /** MySQL hostname */
 define('DB_HOST', 'kylovvs-180958.mysql.binero.se');
 
-define('WP_SITEURL', 'http://design.mediahelpcrm.se');
-define('WP_HOME', 'http://design.mediahelpcrm.se');
+define('WP_SITEURL', 'http://kylovvs.mediahelpcrm.se');
+define('WP_HOME', 'http://kylovvs.mediahelpcrm.se');
 
 /**#@+
  * Authentication Unique Keys and Salts.
